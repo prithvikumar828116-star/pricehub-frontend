@@ -1,1 +1,1 @@
-export const API_BASE = "https://pricehub-backend.onrender.com";
+export const API = "https://pricehub-backend.onrender.com";
